@@ -1,0 +1,7 @@
+C:\study\study\lion1\lion1\bin\Debug\lion1.exe.config
+C:\study\study\lion1\lion1\bin\Debug\lion1.exe
+C:\study\study\lion1\lion1\bin\Debug\lion1.pdb
+C:\study\study\lion1\lion1\obj\Debug\lion1.csproj.AssemblyReference.cache
+C:\study\study\lion1\lion1\obj\Debug\lion1.csproj.CoreCompileInputs.cache
+C:\study\study\lion1\lion1\obj\Debug\lion1.exe
+C:\study\study\lion1\lion1\obj\Debug\lion1.pdb
